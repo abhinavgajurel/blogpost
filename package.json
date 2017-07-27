@@ -1,0 +1,30 @@
+{
+  "name": "blogpost",
+  "version": "1.0.0",
+  "description": "BlogPost with Angular 2",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gajurel/blogpost.git"
+  },
+  "keywords": [
+    "BlogPost",
+    "Meanstack",
+    "angular",
+    "application"
+  ],
+  "author": "abhinav",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gajurel/blogpost/issues"
+  },
+  "homepage": "https://github.com/gajurel/blogpost#readme",
+  "dependencies": {
+    "express": "^4.15.3",
+    "mongoose": "^4.11.4"
+  }
+}
